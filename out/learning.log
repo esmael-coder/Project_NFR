@@ -1,0 +1,349 @@
+09:42:54,733 INFO  [MauiModelBuilder] -- Building the model... 
+09:42:54,798 INFO  [MauiModelBuilder] --- Loading the vocabulary...
+09:42:54,800 INFO  [Vocabulary] --- Loading RDF model from the SKOS file...
+09:42:55,039 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 9 column 35): {W130} Base URI is "", relative URIs left as relative.: <r>
+09:42:55,045 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 12 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/1>
+09:42:55,080 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 15 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/2>
+09:42:55,081 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 18 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/3>
+09:42:55,081 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 21 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/4>
+09:42:55,082 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 24 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/5>
+09:42:55,082 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 27 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/6>
+09:42:55,083 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 30 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/7>
+09:42:55,083 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 33 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/8>
+09:42:55,084 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 36 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/9>
+09:42:55,085 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 39 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/10>
+09:42:55,086 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 42 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/11>
+09:42:55,086 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 45 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/12>
+09:42:55,087 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 48 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/13>
+09:42:55,087 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 51 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/14>
+09:42:55,088 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 54 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/15>
+09:42:55,088 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 57 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/16>
+09:42:55,089 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 60 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/17>
+09:42:55,089 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 63 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/18>
+09:42:55,089 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 66 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/19>
+09:42:55,090 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 69 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/20>
+09:42:55,090 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 72 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/21>
+09:42:55,091 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 75 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/22>
+09:42:55,091 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 78 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/23>
+09:42:55,092 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 81 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/24>
+09:42:55,093 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 84 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/25>
+09:42:55,093 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 87 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/26>
+09:42:55,094 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 90 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/27>
+09:42:55,094 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 93 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/28>
+09:42:55,095 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 96 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/29>
+09:42:55,095 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 99 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/30>
+09:42:55,096 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 102 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/31>
+09:42:55,096 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 105 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/32>
+09:42:55,097 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 108 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/33>
+09:42:55,097 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 111 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/34>
+09:42:55,098 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 114 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/35>
+09:42:55,098 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 117 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/36>
+09:42:55,099 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 120 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/37>
+09:42:55,099 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 123 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/38>
+09:42:55,100 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 126 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/39>
+09:42:55,100 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 129 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/40>
+09:42:55,101 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 132 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/41>
+09:42:55,102 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 135 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/42>
+09:42:55,102 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 138 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/43>
+09:42:55,102 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 141 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/44>
+09:42:55,103 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 144 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/45>
+09:42:55,104 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 147 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/46>
+09:42:55,104 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 150 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/47>
+09:42:55,105 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 153 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/48>
+09:42:55,105 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 156 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/49>
+09:42:55,106 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 159 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/50>
+09:42:55,106 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 162 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/51>
+09:42:55,107 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 165 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/52>
+09:42:55,107 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 168 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/53>
+09:42:55,108 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 171 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/54>
+09:42:55,109 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 174 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/55>
+09:42:55,109 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 177 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/56>
+09:42:55,110 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 180 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/57>
+09:42:55,110 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 183 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/58>
+09:42:55,111 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 186 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/59>
+09:42:55,111 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 189 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/60>
+09:42:55,112 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 192 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/61>
+09:42:55,112 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 195 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/62>
+09:42:55,113 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 198 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/63>
+09:42:55,113 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 201 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/64>
+09:42:55,114 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 204 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/65>
+09:42:55,114 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 207 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/66>
+09:42:55,115 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 210 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/67>
+09:42:55,115 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 213 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/68>
+09:42:55,116 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 216 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/69>
+09:42:55,116 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 219 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/70>
+09:42:55,117 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 222 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/71>
+09:42:55,117 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 225 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/72>
+09:42:55,118 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 228 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/73>
+09:42:55,118 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 231 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/74>
+09:42:55,119 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 234 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/75>
+09:42:55,119 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 237 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/76>
+09:42:55,120 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 240 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/77>
+09:42:55,121 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 243 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/78>
+09:42:55,121 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 246 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/79>
+09:42:55,121 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 249 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/80>
+09:42:55,122 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 252 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/81>
+09:42:55,122 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 255 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/82>
+09:42:55,123 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 258 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/83>
+09:42:55,123 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 261 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/84>
+09:42:55,124 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 264 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/85>
+09:42:55,124 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 267 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/86>
+09:42:55,125 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 270 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/87>
+09:42:55,125 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 273 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/88>
+09:42:55,126 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 276 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/89>
+09:42:55,126 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 279 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/90>
+09:42:55,126 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 282 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/91>
+09:42:55,127 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 285 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/92>
+09:42:55,128 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 288 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/93>
+09:42:55,128 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 291 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/94>
+09:42:55,128 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 294 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/95>
+09:42:55,129 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 297 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/96>
+09:42:55,129 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 300 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/97>
+09:42:55,130 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 303 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/98>
+09:42:55,130 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 306 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/99>
+09:42:55,131 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 309 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/100>
+09:42:55,131 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 312 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/101>
+09:42:55,131 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 315 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/102>
+09:42:55,132 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 318 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/103>
+09:42:55,132 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 321 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/104>
+09:42:55,133 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 324 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/105>
+09:42:55,133 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 327 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/106>
+09:42:55,133 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 330 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/107>
+09:42:55,134 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 333 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/108>
+09:42:55,134 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 336 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/109>
+09:42:55,135 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 339 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/110>
+09:42:55,136 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 342 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/111>
+09:42:55,136 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 345 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/112>
+09:42:55,136 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 348 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/113>
+09:42:55,137 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 351 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/114>
+09:42:55,137 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 354 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/115>
+09:42:55,138 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 357 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/116>
+09:42:55,138 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 360 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/117>
+09:42:55,139 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 363 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/118>
+09:42:55,139 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 366 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/119>
+09:42:55,140 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 369 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/120>
+09:42:55,140 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 372 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/121>
+09:42:55,140 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 375 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/122>
+09:42:55,141 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 378 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/123>
+09:42:55,141 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 381 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/124>
+09:42:55,142 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 384 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/125>
+09:42:55,142 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 387 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/126>
+09:42:55,142 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 390 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/127>
+09:42:55,143 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 393 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/128>
+09:42:55,143 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 396 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/129>
+09:42:55,143 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 399 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/130>
+09:42:55,144 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 402 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/131>
+09:42:55,144 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 405 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/132>
+09:42:55,144 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 408 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/133>
+09:42:55,145 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 411 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/134>
+09:42:55,145 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 414 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/135>
+09:42:55,146 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 417 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/136>
+09:42:55,146 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 420 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/137>
+09:42:55,147 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 423 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/138>
+09:42:55,147 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 426 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/139>
+09:42:55,147 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 429 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/140>
+09:42:55,148 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 432 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/141>
+09:42:55,148 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 435 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/142>
+09:42:55,148 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 438 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/143>
+09:42:55,149 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 441 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/144>
+09:42:55,149 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 444 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/145>
+09:42:55,149 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 447 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/146>
+09:42:55,150 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 450 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/147>
+09:42:55,150 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 453 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/148>
+09:42:55,151 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 456 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/149>
+09:42:55,151 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 459 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/150>
+09:42:55,151 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 462 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/151>
+09:42:55,152 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 465 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/152>
+09:42:55,152 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 468 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/153>
+09:42:55,153 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 471 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/154>
+09:42:55,155 INFO  [Vocabulary] --- Building the Vocabulary index from the RDF model...
+09:42:55,239 INFO  [Vocabulary] --- Statistics about the vocabulary: 
+09:42:55,240 INFO  [Vocabulary] 	146 terms in total
+09:42:55,240 INFO  [Vocabulary] 	0 non-descriptive terms
+09:42:55,240 INFO  [Vocabulary] 	0 terms have related terms
+09:42:55,240 INFO  [MauiModelBuilder] -- Adding documents as instances... 
+09:42:55,373 INFO  [MauiModelBuilder] -- Building the model... 
+09:42:56,117 WARN  [MauiFilter] Warning! This documents does not contain valid keyphrases
+09:42:56,117 WARN  [MauiFilter] ?
+09:42:56,120 WARN  [MauiFilter] Warning! This documents does not contain valid keyphrases
+09:42:56,121 WARN  [MauiFilter] ?
+09:43:26,970 INFO  [MauiTopicExtractor] --- Loading the vocabulary...
+09:43:26,970 INFO  [Vocabulary] --- Loading RDF model from the SKOS file...
+09:43:26,972 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 9 column 35): {W130} Base URI is "", relative URIs left as relative.: <r>
+09:43:26,972 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 12 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/1>
+09:43:26,972 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 15 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/2>
+09:43:26,972 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 18 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/3>
+09:43:26,973 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 21 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/4>
+09:43:26,973 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 24 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/5>
+09:43:26,973 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 27 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/6>
+09:43:26,974 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 30 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/7>
+09:43:26,974 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 33 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/8>
+09:43:26,974 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 36 column 32): {W130} Base URI is "", relative URIs left as relative.: <r/9>
+09:43:26,975 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 39 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/10>
+09:43:26,975 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 42 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/11>
+09:43:26,975 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 45 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/12>
+09:43:26,976 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 48 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/13>
+09:43:26,976 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 51 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/14>
+09:43:26,976 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 54 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/15>
+09:43:26,977 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 57 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/16>
+09:43:26,977 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 60 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/17>
+09:43:26,977 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 63 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/18>
+09:43:26,978 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 66 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/19>
+09:43:26,978 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 69 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/20>
+09:43:26,978 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 72 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/21>
+09:43:26,979 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 75 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/22>
+09:43:26,979 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 78 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/23>
+09:43:26,979 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 81 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/24>
+09:43:26,980 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 84 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/25>
+09:43:26,980 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 87 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/26>
+09:43:26,981 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 90 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/27>
+09:43:26,981 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 93 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/28>
+09:43:26,981 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 96 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/29>
+09:43:26,982 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 99 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/30>
+09:43:26,982 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 102 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/31>
+09:43:26,982 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 105 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/32>
+09:43:26,983 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 108 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/33>
+09:43:26,983 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 111 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/34>
+09:43:26,984 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 114 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/35>
+09:43:26,984 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 117 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/36>
+09:43:26,984 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 120 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/37>
+09:43:26,985 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 123 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/38>
+09:43:26,986 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 126 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/39>
+09:43:26,986 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 129 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/40>
+09:43:26,986 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 132 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/41>
+09:43:26,987 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 135 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/42>
+09:43:26,987 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 138 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/43>
+09:43:26,988 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 141 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/44>
+09:43:26,988 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 144 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/45>
+09:43:26,988 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 147 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/46>
+09:43:26,989 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 150 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/47>
+09:43:26,989 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 153 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/48>
+09:43:26,990 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 156 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/49>
+09:43:26,990 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 159 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/50>
+09:43:26,991 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 162 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/51>
+09:43:26,991 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 165 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/52>
+09:43:26,991 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 168 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/53>
+09:43:26,992 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 171 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/54>
+09:43:26,992 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 174 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/55>
+09:43:26,992 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 177 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/56>
+09:43:26,993 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 180 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/57>
+09:43:26,993 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 183 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/58>
+09:43:26,994 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 186 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/59>
+09:43:26,994 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 189 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/60>
+09:43:26,994 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 192 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/61>
+09:43:26,995 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 195 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/62>
+09:43:26,995 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 198 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/63>
+09:43:26,995 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 201 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/64>
+09:43:26,996 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 204 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/65>
+09:43:26,996 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 207 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/66>
+09:43:26,996 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 210 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/67>
+09:43:26,997 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 213 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/68>
+09:43:26,997 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 216 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/69>
+09:43:26,998 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 219 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/70>
+09:43:26,998 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 222 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/71>
+09:43:26,999 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 225 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/72>
+09:43:26,999 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 228 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/73>
+09:43:27,000 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 231 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/74>
+09:43:27,000 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 234 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/75>
+09:43:27,000 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 237 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/76>
+09:43:27,001 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 240 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/77>
+09:43:27,001 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 243 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/78>
+09:43:27,002 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 246 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/79>
+09:43:27,002 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 249 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/80>
+09:43:27,002 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 252 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/81>
+09:43:27,003 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 255 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/82>
+09:43:27,003 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 258 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/83>
+09:43:27,003 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 261 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/84>
+09:43:27,004 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 264 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/85>
+09:43:27,004 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 267 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/86>
+09:43:27,005 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 270 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/87>
+09:43:27,005 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 273 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/88>
+09:43:27,005 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 276 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/89>
+09:43:27,006 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 279 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/90>
+09:43:27,006 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 282 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/91>
+09:43:27,007 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 285 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/92>
+09:43:27,007 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 288 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/93>
+09:43:27,008 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 291 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/94>
+09:43:27,008 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 294 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/95>
+09:43:27,008 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 297 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/96>
+09:43:27,009 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 300 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/97>
+09:43:27,009 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 303 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/98>
+09:43:27,010 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 306 column 33): {W130} Base URI is "", relative URIs left as relative.: <r/99>
+09:43:27,010 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 309 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/100>
+09:43:27,010 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 312 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/101>
+09:43:27,011 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 315 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/102>
+09:43:27,011 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 318 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/103>
+09:43:27,011 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 321 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/104>
+09:43:27,012 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 324 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/105>
+09:43:27,012 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 327 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/106>
+09:43:27,012 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 330 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/107>
+09:43:27,013 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 333 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/108>
+09:43:27,013 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 336 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/109>
+09:43:27,013 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 339 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/110>
+09:43:27,014 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 342 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/111>
+09:43:27,014 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 345 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/112>
+09:43:27,015 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 348 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/113>
+09:43:27,015 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 351 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/114>
+09:43:27,016 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 354 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/115>
+09:43:27,016 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 357 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/116>
+09:43:27,016 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 360 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/117>
+09:43:27,017 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 363 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/118>
+09:43:27,017 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 366 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/119>
+09:43:27,017 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 369 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/120>
+09:43:27,017 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 372 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/121>
+09:43:27,018 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 375 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/122>
+09:43:27,018 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 378 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/123>
+09:43:27,018 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 381 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/124>
+09:43:27,019 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 384 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/125>
+09:43:27,019 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 387 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/126>
+09:43:27,019 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 390 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/127>
+09:43:27,020 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 393 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/128>
+09:43:27,020 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 396 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/129>
+09:43:27,020 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 399 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/130>
+09:43:27,021 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 402 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/131>
+09:43:27,021 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 405 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/132>
+09:43:27,022 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 408 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/133>
+09:43:27,022 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 411 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/134>
+09:43:27,022 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 414 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/135>
+09:43:27,023 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 417 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/136>
+09:43:27,023 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 420 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/137>
+09:43:27,023 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 423 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/138>
+09:43:27,024 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 426 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/139>
+09:43:27,024 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 429 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/140>
+09:43:27,024 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 432 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/141>
+09:43:27,025 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 435 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/142>
+09:43:27,025 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 438 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/143>
+09:43:27,025 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 441 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/144>
+09:43:27,026 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 444 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/145>
+09:43:27,026 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 447 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/146>
+09:43:27,026 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 450 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/147>
+09:43:27,027 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 453 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/148>
+09:43:27,027 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 456 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/149>
+09:43:27,027 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 459 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/150>
+09:43:27,028 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 462 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/151>
+09:43:27,028 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 465 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/152>
+09:43:27,028 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 468 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/153>
+09:43:27,029 WARN  [RDFDefaultErrorHandler] file:///home/rutvik/workspace/Project_NFR/(line 471 column 34): {W130} Base URI is "", relative URIs left as relative.: <r/154>
+09:43:27,029 INFO  [Vocabulary] --- Building the Vocabulary index from the RDF model...
+09:43:27,034 INFO  [Vocabulary] --- Statistics about the vocabulary: 
+09:43:27,034 INFO  [Vocabulary] 	146 terms in total
+09:43:27,034 INFO  [Vocabulary] 	0 non-descriptive terms
+09:43:27,034 INFO  [Vocabulary] 	0 terms have related terms
+09:43:27,035 INFO  [MauiTopicExtractor] -- Extracting keyphrases... 
+09:43:27,096 INFO  [MauiTopicExtractor] -- Processing document: msedcl.txt
+09:43:27,096 INFO  [MauiTopicExtractor] -- Keyphrases and feature values:
+09:43:27,097 INFO  [MauiTopicExtractor] Topic feasible 1 0.72593567251462 > false
+09:43:27,097 INFO  [MauiTopicExtractor] Topic feasibility 1 0.72593567251462 > false
+09:43:27,097 INFO  [MauiTopicExtractor] Topic authentication 1 0.6339912280701754 > false
+09:43:27,097 INFO  [MauiTopicExtractor] Topic ease 1 0.6192423086702263 > false
+09:43:27,097 INFO  [MauiTopicExtractor] Topic ease 1 0.6192423086702263 > false
+09:43:27,097 INFO  [MauiTopicExtractor] Topic reliability 1 0.5560844139333843 > false
+09:43:27,097 INFO  [MauiTopicExtractor] Topic output 1 0.5424453343503687 > false
+09:43:27,098 INFO  [MauiTopicExtractor] Topic update 1 0.4711217675475988 > false
+09:43:27,098 INFO  [MauiTopicExtractor] Topic server 1 0.4711217675475988 > false
+09:43:27,098 INFO  [MauiTopicExtractor] Topic user 1 0.4711217675475988 > false
+09:43:27,098 INFO  [MauiTopicExtractor] Topic system 1 0.43415458937198076 > false
+09:43:27,098 INFO  [MauiTopicExtractor] Topic database 1 0.4087375082883395 > false
+09:43:27,098 INFO  [MauiTopicExtractor] Topic databases 1 0.4087375082883395 > false
+09:43:27,098 INFO  [MauiTopicExtractor] Topic software 1 0.4087375082883395 > false
+09:43:27,098 INFO  [MauiTopicExtractor] Topic input 1 0.4059274091024664 > false
